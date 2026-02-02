@@ -1,0 +1,7 @@
+{
+  "name": "KORD Asset Engine",
+  "description": "High-performance enterprise asset management with marketplace integration, flow analytics, and AI auditing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
